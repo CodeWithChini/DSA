@@ -15,32 +15,34 @@ Our temperature converter program will have the following features:
 
 <h3>Example : </h3>
 <br>
-Temperature Converter
-1. Celsius to Fahrenheit
-2. Fahrenheit to Celsius
-3. Exit
-Enter your choice (1-3): 1
-Enter temperature in Celsius: 25
-25 C = 77 F
+Temperature Converter<br>
+1. Celsius to Fahrenheit<br>
+2. Fahrenheit to Celsius<br>
+3. Exit<br>
+Enter your choice (1-3): 1<br>
+Enter temperature in Celsius: 25<br>
+25 C = 77 F<br>
+<br>
 
-Temperature Converter
-1. Celsius to Fahrenheit
-2. Fahrenheit to Celsius
-3. Exit
-Enter your choice (1-3): 2
-Enter temperature in Fahrenheit: 98.6
-98.6 F = 37 C
+Temperature Converter<br>
+1. Celsius to Fahrenheit<br>
+2. Fahrenheit to Celsius<br>
+3. Exit<br>
+Enter your choice (1-3): 2<br>
+Enter temperature in Fahrenheit: 98.6<br>
+98.6 F = 37 C<br>
+<br>
+Temperature Converter<br>
+1. Celsius to Fahrenheit<br>
+2. Fahrenheit to Celsius<br>
+3. Exit<br>
+Enter your choice (1-3): 4<br>
+Invalid choice. Please try again.<br>
+<br>
 
-Temperature Converter
-1. Celsius to Fahrenheit
-2. Fahrenheit to Celsius
-3. Exit
-Enter your choice (1-3): 4
-Invalid choice. Please try again.
-
-Temperature Converter
-1. Celsius to Fahrenheit
-2. Fahrenheit to Celsius
-3. Exit
-Enter your choice (1-3): 3
-Exiting temperature converter.
+Temperature Converter<br>
+1. Celsius to Fahrenheit<br>
+2. Fahrenheit to Celsius<br>
+3. Exit<br>
+Enter your choice (1-3): 3<br>
+Exiting temperature converter.<br>
