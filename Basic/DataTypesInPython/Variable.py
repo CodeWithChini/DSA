@@ -3,9 +3,10 @@ b = 18.9
 c = "Hello World"
 d = True
 e = ['hello', 10, False]
-f = (10, 20, 'hello')
-g = {10, 20, 'hello'}
-h = {'name': 'Hill', 'age': 20}
+f = (10, 20, 'hello')   # Immutable
+g = {10, 20, 'hello'} #set
+h = {'name': 'Hill', 'age': 20} # dictionary in key:value pair
+i = None
 
 print(type(a))  # <class 'int'>
 print(type(b))  # <class 'float'>
@@ -15,4 +16,4 @@ print(type(e))  # <class 'list'>
 print(type(f))  # <class 'tuple'>
 print(type(g))  # <class 'set'>
 print(type(h))  # <class 'dict'>
-
+print(type(i))  # <class 'NoneType'>
