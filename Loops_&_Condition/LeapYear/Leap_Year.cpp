@@ -11,9 +11,9 @@ int main()
     {
         cout << year << " " << "Is Leap Year " << endl;
     }
-    else
+    else 
     {
         cout << year << " " << "Is not Leap Year " << endl;
     }
-    
+
 }
