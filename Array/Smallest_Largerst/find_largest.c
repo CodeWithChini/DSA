@@ -15,7 +15,6 @@ void main()
     }
 
     int largest = arr[0];
-    
     for(int i = 0 ; i < size ; i++)
     {
         if(largest < arr[i])
@@ -24,5 +23,4 @@ void main()
         }
     }
     printf("%d", largest);
-    
 }
