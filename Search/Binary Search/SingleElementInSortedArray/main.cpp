@@ -44,7 +44,7 @@ int singleNonDuplicate(vector<int>& A) {
         return -1;
     }
 
-
+    
 int main()
 {
     int n;
