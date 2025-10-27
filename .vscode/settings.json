@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.env.development": "env",
+        "*.env.production": "env",
+        "*.env.testing": "env",
+        "*.env.example": "env",
+        "*.env": "env",
+        "*.env.local": "env",
+        "*.env.test": "env",
+        "iostream": "cpp"
+    }
+}
