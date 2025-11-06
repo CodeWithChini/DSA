@@ -15,4 +15,4 @@ For each test case output one integer: the largest minimum distance.<br>
 
 <hr>
 <h3>Problem Link: </h3>
-https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+https://www.spoj.com/problems/AGGRCOW/?__cf_chl_tk=kno5yDH2qGrvr9GuYWUum4nOQqs2iX6Gsm.828IWBHA-1762424201-1.0.1.1-QpRC_1iVMwTJ7qTZZdEI7cQEcf4LQfoBO9qB3y7ezTU
