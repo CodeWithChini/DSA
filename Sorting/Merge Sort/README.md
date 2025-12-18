@@ -32,12 +32,13 @@ The result of the merge is [1].<br>
 Note that because m = 0, there are no elements in nums1. The 0 is only there to ensure the merge result can fit in nums1.<br>
 
 <h3>Constraints:</h3>
-
-nums1.length == m + n<br>
-nums2.length == n<br>
-0 <= m, n <= 200<br>
-1 <= m + n <= 200<br>
--109 <= nums1[i], nums2[j] <= 109<br>
+<ul>
+<li>nums1.length == m + n</li>
+<li>nums2.length == n</li>
+<li>0 <= m, n <= 200</li>
+<li>1 <= m + n <= 200</li>
+<li>-109 <= nums1[i], nums2[j] <= 109</li>
+</ul>
 
 
 <hr>
