@@ -2,7 +2,7 @@ def bubbleSort(arr):
     n = len(arr)
 
     for i in range(n):
-        swapped = False
+        swapped = False  
 
         for j in range(0, n - i - 1):
             if arr[j] > arr[j+1]:
