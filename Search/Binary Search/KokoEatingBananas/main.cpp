@@ -11,7 +11,7 @@ public:
             // Calculate ceil(pile / k) efficiently using integer math
             totalHours += (pile + k - 1) / k;
         }
-        return totalHours <= h;
+        return totalHours <= h; 
     }
 
     int minEatingSpeed(std::vector<int>& piles, int h) {
